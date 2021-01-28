@@ -15,9 +15,6 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project
 
 
-## Model Prediction¶
-Now it is time to start building the model .The types of algorithms we are going to use to try to do anomaly detection on this dataset are as follows
-
 ## Isolation Forest Algorithm :
 One of the newest techniques to detect anomalies is called Isolation Forests. The algorithm is based on the fact that anomalies are data points that are few and different. As a result of these properties, anomalies are susceptible to a mechanism called isolation.
 
